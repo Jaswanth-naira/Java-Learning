@@ -42,15 +42,15 @@
 
 - Program Flow 
                                                 HelloWorld.java
-                                                   | 
+                                                   ⬇️
                                                 Find class HelloWorld 
-                                                   |
+                                                   ⬇️
                                                 Find main()
-                                                   | 
+                                                   ⬇️
                                                 Execute code inside main()
-                                                   |
+                                                   ⬇️
                                                 Print "Hello world" 
-                                                   |
+                                                   ⬇️
                                                 Program ends
 
 - Summary 
