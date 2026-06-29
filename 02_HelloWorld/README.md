@@ -1,4 +1,6 @@
-concepts learned 
-JAva class
-main method
-System.out.println()
+</> Markdown
+## concepts learned 
+
+- Java class
+- `main()` method
+- `System.out.println()`
