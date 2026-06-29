@@ -51,7 +51,7 @@
                                                    ⬇️
                                                 Print "Hello world" 
                                                    ⬇️
-                                                Program ends 
+                                                Program ends
 
 - Summary 
 - code                        Purpose 
