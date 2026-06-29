@@ -40,19 +40,28 @@
 
    Every java statement ends with a semicolon.
 
-- Program Flow 
-                                                HelloWorld.java
-                                                   ⬇️
-                                                Find class HelloWorld 
-                                                   ⬇️
-                                                Find main()
-                                                   ⬇️
-                                                Execute code inside main()
-                                                   ⬇️
-                                                Print "Hello world" 
-                                                   ⬇️
-                                                Program ends
+</> Markdown
+## Program Flow
 
+```text
+
+ HelloWorld.java
+       |
+       ▼
+ Find class HelloWorld 
+       |
+       ▼
+ Find main()
+       |
+       ▼
+ Execute code inside main()
+       |
+       ▼
+ Print "Hello world" 
+       |
+       ▼
+ Program ends
+```
 - Summary 
 - code                        Purpose 
 - class                       Defines a class
