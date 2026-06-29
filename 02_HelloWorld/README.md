@@ -54,19 +54,19 @@
                                                 Program ends
 
 - Summary 
-code                        Purpose 
-class                       Defines a class
-HelloWorld                  Name of the class 
-{}                          groups code into a block 
-public                      Accessible from anywhere 
-static                      can run without creating an object 
-void                        Return nothing 
-main()                      Entry point of the program 
-String args[]               Command-line arguments 
-System                      Built-in java class 
-out                         Standard output stream 
-println()                   Prints text and moves to the next line 
-"Helloworld"                String literal 
-;                           Ends a statement 
+- code                        Purpose 
+- class                       Defines a class
+- HelloWorld                  Name of the class 
+- {}                          groups code into a block 
+- public                      Accessible from anywhere 
+- static                      can run without creating an object 
+- void                        Return nothing 
+- main()                      Entry point of the program 
+- String args[]               Command-line arguments 
+- System                      Built-in java class 
+- out                         Standard output stream 
+- println()                   Prints text and moves to the next line 
+- "Helloworld"                String literal 
+- ;                           Ends a statement 
 
 
