@@ -62,20 +62,25 @@
        ▼
  Program ends
 ```
-- Summary 
-- code                        Purpose 
-- class                       Defines a class
-- HelloWorld                  Name of the class 
-- {}                          groups code into a block 
-- public                      Accessible from anywhere 
-- static                      can run without creating an object 
-- void                        Return nothing 
-- main()                      Entry point of the program 
-- String args[]               Command-line arguments 
-- System                      Built-in java class 
-- out                         Standard output stream 
-- println()                   Prints text and moves to the next line 
-- "Helloworld"                String literal 
-- ;                           Ends a statement 
+
+</> Markdown
+
+ ## Summary 
+| code | Purpose |
+|------|---------| 
+| `class` | Defines a class.Every Java program must be written inside a class. |
+| `HelloWorld` | Name of the class. | 
+| `{}` |Defines a  block of code. | 
+| `public` | Makes the `main()` method accessible to the JVM. | 
+| `static` | Allows the `main()` method to run without creating an object. | 
+| `void` | Indicates that the method does not return any value. | 
+| ` main()` | Entry point of the Java application. | 
+| `String args[]`| Stores command-line arguments passed to the program. |
+| `System` | Built-in java class that provides system related features. | 
+| `out` | Standard output stream used to display output on the console. | 
+| `println()` | Prints text and moves the cursor to the next line. | 
+| `"Hello World"` | A String literal enclosed in double quotes. | 
+| ` ;` | Marks the end of a statement. |
 
 
+ 
