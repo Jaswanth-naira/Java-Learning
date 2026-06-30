@@ -29,10 +29,12 @@
    System is a built-in java class.
    
    It provides useful tools like:
-   |`Input`|
-   |`Output`|
-   |`Time`|
-   |`Environment Information`|
+   ```text
+    Input
+    Output
+    Time 
+    Environment Information
+    ```
 
    out is a standard output stream.
 
