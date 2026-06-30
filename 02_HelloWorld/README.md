@@ -1,7 +1,7 @@
 </> Markdown
 ## concepts learned 
 
-- Java class 
+  ## Java class 
   In java class is a blueprint or template for creating objects that share common properties and behaviour.Every program must be inside a class.Keyword tells java creating a new class.
 
 </> Markdown
