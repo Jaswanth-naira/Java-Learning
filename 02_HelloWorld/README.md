@@ -4,19 +4,23 @@
 - Java class 
   In java class is a blueprint or template for creating objects that share common properties and behaviour.Every program must be inside a class.Keyword tells java creating a new class.
 
-- `public static void main()`
-   public:This method can be accessed anywhere
-   Java needs the main() method to be public so it can start program
+</> Markdown
+   ## Understanding `public static void main()`
+   
+   ### public
+   This method can be accessed anywhere.Java needs the main() method to be public so it can start program
 
-   static:Can use this method without creating an object.
-   since main() is static java can directly call it when program starts. 
+   ### static
+   Can use this method without creating an object.since main() is static java can directly call it when program starts. 
 
-   void:This method doesnt return anything.
+   ### void
+   This method doesnt return anything.
 
-   main:this is the entry point of every java application.
+   ### main 
+   This is the entry point of every java application.
 
-   String args[]:This stores command line arguments.
-   Java passes information through array if needed.
+   ### String args[]
+   This stores command line arguments.Java passes information through array if needed.
 
 - `System.out.println("")`
    This line prints text on the console.
