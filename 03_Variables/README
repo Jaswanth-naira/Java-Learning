@@ -1,0 +1,46 @@
+</> Markdown
+
+## Variables
+
+- In java a variable is the name of memory location that are used like a container to store values during java program execution.
+Every variable must be assigned a data type to define the kind of data it can hold. Java is statically typed,must declare a data type before using and that type cant be changed later.
+- In java variables are categorized into four types.
+```
+  static
+  local
+  final  
+  Instance
+```
+
+### Basic syntax:
+
+ datatype variableName= value;
+
+Examples:
+
+ - int age=15;
+ - double price=19.99;
+ - String name="Alice";
+ - boolean isActive = true;
+
+
+### Declaring vs intializing 
+
+A variable can be declared without assigning  it a value immediately.The value can be assigned later.
+
+Example:
+
+```
+  int score;
+  score = 100;
+```
+
+Notes:
+ - Local variables must be intialized before use,othewise java gives a compile error.
+ - Instance/static variables get default values automatically if not intialized.
+ 
+
+ 
+
+
+
