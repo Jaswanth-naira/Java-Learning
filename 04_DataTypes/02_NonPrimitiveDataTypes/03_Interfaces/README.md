@@ -39,6 +39,7 @@
 
    This means you can write code that works with "any animal" without caring whether its actually a Dog,Cat or some other animal or becuase the variable type is animal,it can refer to any object that implements the Animal interface.
 
+   ```
    Animal
       ▲
       |
@@ -46,6 +47,7 @@
    |       |
    |       |
    Dog     Cat
+  ```
 ### Key points - Interfaces 
 
     .Cannot create objects directly:
