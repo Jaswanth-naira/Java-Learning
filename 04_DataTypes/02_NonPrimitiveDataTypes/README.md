@@ -6,8 +6,8 @@ Primitives are effecient for storing simple values such as numbers and character
 
 ### Core Categories 
 
-- 1.class 
-    A class is a user defined blueprint that defines variables and methods. It represents a type of object and forms object oriented programming. Any type defined using class keyword including built ones String,Scanner,Array List. 
+- 1.Class 
+    A Class is a user defined blueprint that defines variables and methods. It represents a type of object and forms object oriented programming. Any type defined using class keyword including built ones String,Scanner,Array List. 
   
         Ex: String name = "Java";
             Student s = new Student();
@@ -47,5 +47,14 @@ Primitives are effecient for storing simple values such as numbers and character
     .Interfaces
     .Enums
     .Collections(ArrayList,Hashmap)
+
+### Characterstics of reference types
+    . Store references instead of actual values.
+    . Objects are stored in Heap memory.
+    . Can contains fields and methods.
+    . Can be assigned null.
+    . Size depends on the object.
+    . Created using class
+    . Compared using references unless method like equals() are used.
 
  Note: A reference variable and the object it points to are different things. The variable stores the reference, while the object itself lives in heap memory.
