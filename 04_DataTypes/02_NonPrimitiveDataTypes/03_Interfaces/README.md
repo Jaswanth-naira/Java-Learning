@@ -11,6 +11,7 @@
        
 ### Implementing an interface 
 
+ ```
     class Dog implements Animal 
    {
      public void makeSound()
@@ -26,17 +27,17 @@
         System.out.println("Meow!");
     }
    }
-
+ ```
 ### Why this is powerful 
 
    A variable of the interface type can point to any object that implements it
-
+  ```
    Animal a1 = new Dog();
    Animal a2 = new Cat();
 
    a1.makeSound();
    a2.makeSound();
-
+  ```
    This means you can write code that works with "any animal" without caring whether its actually a Dog,Cat or some other animal or becuase the variable type is animal,it can refer to any object that implements the Animal interface.
 
    ```
@@ -59,9 +60,11 @@
     .Since Java 8,Interfaces can also have default and static methods.
     .Since Java 9,private methods also allowed.
 
-Class                              Interface
-Has implementation                 Declares behaviour
-Objects can be created             Cannot instantiate directly
-Uses extends                       Uses implements
-Constructors allowed               Constructors not allowed.
+### Differences between class and Interfaces
+
+    Class                              Interface
+    Has implementation                 Declares behaviour
+    Objects can be created             Cannot instantiate directly
+    Uses extends                       Uses implements
+    Constructors allowed               Constructors not allowed.
 
