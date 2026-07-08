@@ -1,0 +1,11 @@
+Integer Literals
+
+Whole numbers which can be written in four different number system
+int decimal = 100;         //base 10 (normal)
+int octal = 0144;          //base 8 (prefix 0)
+int hex = 0x64;            //base 16 (prefix 0x)
+int binary = 0b1100100;    //base 2(prefix 0b)
+long big = 10000000L;      // suffix L (or l) marks it as long
+int readable = 1_000_000;  // underscores allowed for readability. 
+    
+     

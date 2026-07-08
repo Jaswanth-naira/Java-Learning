@@ -1,0 +1,7 @@
+CharacterLiterals
+A single character in single quotes     
+
+char c = 'A';
+char newline = '\n';         // escape sequence 
+char unicode = '\u0041'      // Unicode for 'A'
+                                 

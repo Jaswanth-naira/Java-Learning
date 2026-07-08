@@ -1,0 +1,5 @@
+Null Literals
+
+Represent no object for reference types
+
+String name = null;

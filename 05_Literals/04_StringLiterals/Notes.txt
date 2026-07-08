@@ -1,0 +1,8 @@
+StringLiterals 
+    
+Text in double quotes(technically a stirng object,not a primitive)
+
+String s = "Hello world";
+String withEscape = "Line1\nLine2";
+    
+    

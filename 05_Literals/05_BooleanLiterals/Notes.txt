@@ -1,0 +1,4 @@
+Only two possible values 
+
+boolean isJavaFun = true;
+boolean isTired = false;
