@@ -1,0 +1,5 @@
+Method overloading in java allows a class to have multiple methods with same name but different parameters enabling compile time polymorphism.
+.Methods can share the same name if their parameter lists differ
+.Cannot overload by return type alone parameters lists must differ 
+.The compiler choses the most specific match when multiple methods could apply. 
+
