@@ -1,12 +1,7 @@
 class HelloWorld 
 {
-    public static void main(String args[])
-    {
-        int a = 5;
-        int b = a;
-        b = 10;
-        System.out.println(a);
-        System.out.println(b);
-
-    }
+    public static void main(String[] args)
+     {
+        System.out.print("Hello World");
+     }
 }
