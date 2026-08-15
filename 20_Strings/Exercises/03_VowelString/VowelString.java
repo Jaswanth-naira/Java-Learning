@@ -1,16 +1,14 @@
 import java.util.*;
 class VowelString 
 {
-    int countVowels(String str)
-    {
+    int countVowels(String str){
          int count = 0;
+         String vowels = "aeiou";
          for(int i = 0; i < str.length(); i++)
          {
              char lowerCaseLetter = Character.toLowerCase(str.charAt(i));
-
-             if(lowerCaseLetter == 'a' || lowerCaseLetter == 'e' || lowerCaseLetter == 'i' || lowerCaseLetter == 'o' || lowerCaseLetter == 'u'){
-                  count++;
-             }
+             if (vowels.indexOf(lowerCaseLetter) != -1) count++;
+             
          }
 
          return count;
@@ -36,4 +34,4 @@ class VowelString
         
 
     }
-}
+}    
