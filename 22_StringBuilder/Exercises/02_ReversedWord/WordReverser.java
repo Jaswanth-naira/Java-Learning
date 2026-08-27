@@ -1,6 +1,7 @@
 import java.util.*;
 class WordReverser 
 {
+       
     String reverse(String originalWord)
     {
          StringBuilder sb  = new StringBuilder(originalWord);
@@ -26,4 +27,5 @@ class WordReverser
         System.out.println("Printing the reversed word: " + finalWord);
         sc.close();
     }
+    
 }
